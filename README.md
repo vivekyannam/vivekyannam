@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vivekyannam
 - 👀 I’m interested in SDE
-- 🌱 I’m currently learning DATA STRUCTURES 
+- 🌱 I’m currently learning DATA STRUCTURES Using Java
 
 <!---
 vivekyannam/vivekyannam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
